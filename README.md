@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oti Oritsejafor 👋
+
+#### Apps
+[Quicksteps](https://apps.apple.com/us/app/quicksteps/id1529820533) - Fitness iOS app <br> <br>
+<img src="https://user-images.githubusercontent.com/33184801/128731229-03311d9b-4cf2-4db9-b8c5-84ed63226bce.png" alt="drawing" width="100"/>
+
 
 <!--
 **otioritsejafor/otioritsejafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
